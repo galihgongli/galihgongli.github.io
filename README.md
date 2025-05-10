@@ -1,2 +1,0 @@
-# galihgongli.github.io
-
