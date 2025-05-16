@@ -1020,6 +1020,11 @@ a:focus {
     width: 100%;
     padding: 30px 30px 0 30px;
     background: #99d9ea;
+    color: white !important;
+}
+
+.footer a {
+    color: white !important;
 }
 
 .footer .col-md-6:last-child {
@@ -1054,4 +1059,8 @@ a:focus {
     background: transparent !important;
     padding: 5px 0;
     margin-bottom: 10px;
+}
+
+.footer-white-text {
+    color: white !important;
 }
